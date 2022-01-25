@@ -14,5 +14,6 @@
 <h2>Introduction</h2>
 <p>We all have been affected by the current COVID-19 pandemic. However, the impact of the pandemic and its consequences are felt differently depending on our status as individuals and as members of society. While some try to adapt to working online, homeschooling their children and ordering food via Instacart, others have no choice but to be exposed to the virus while keeping society functioning.</P>
 <p> Till some people are not getting awareness about The current covid pandemics.  Heavily shaken by the corona pandemics many of us are currently thinking about how we could contribute to overcome this unprecedented situation.</p>
-I want to get awareness to people 
+<h4>How to use</h4>
+I want to get awareness on people by creating a  COVID chatbot and make it available to all who are in need. They can make use of it by asking their doubts regarding COVID-19 and Vacccine.
  
