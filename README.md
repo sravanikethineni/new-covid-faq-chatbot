@@ -8,12 +8,15 @@
 
 - 📫 How to reach me **kethinenisravani829@gmail.com**
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h2>Introduction</h2>
 <p>We all have been affected by the current COVID-19 pandemic. However, the impact of the pandemic and its consequences are felt differently depending on our status as individuals and as members of society. While some try to adapt to working online, homeschooling their children and ordering food via Instacart, others have no choice but to be exposed to the virus while keeping society functioning.</P>
 <p> Till some people are not getting awareness about The current covid pandemics.  Heavily shaken by the corona pandemics many of us are currently thinking about how we could contribute to overcome this unprecedented situation.</p>
 <h4>How to use</h4>
 I want to get awareness on people by creating a  COVID chatbot and make it available to all who are in need. They can make use of it by asking their doubts regarding COVID-19 and Vacccine.
+
+<h6>HOW I CREATE IT ??</h6>
+ First I login to microsoft azure portal and then I create a knowledge base in QnA Portal. And I create a Chatbot with that.
+ Then I wanted to deploy it in static web app, so for that I then create a storage account in Microsoft Azure and With that I Create static web app , now I upload my file into that website.</n>
+<h6> Used Primary Azure Technologies </h6>
+Azure Bot Sercives , QnA Maker , Static Web Apps , Azure Storage.
  
